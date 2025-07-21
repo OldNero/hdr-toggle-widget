@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "org.beyond.hdrtoggle",
+    "Name": "HDR Toggle",
+    "Description": "Toggle HDR with status indicator",
+    "Version": "1.0",
+    "License": "GPLv3",
+    "Author": "OldNero",
+    "Category": "Utilities"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "main": "ui/main.qml"
+}
