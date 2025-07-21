@@ -1,6 +1,6 @@
 # HDR Toggle Plasmoid
 
-A Plasma 6 widget to toggle HDR on display DP-2 and show status updates.  
+A Plasma 6 widget to toggle HDR on display and show status updates.  
 Includes polling, scripting, and styling hooks.
 
 ## Installation
